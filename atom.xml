@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[QuQunta's blog]]></title>
+  <link href="http://ququnta.github.io/atom.xml" rel="self"/>
+  <link href="http://ququnta.github.io/"/>
+  <updated>2025-06-13T18:27:53+00:00</updated>
+  <id>http://ququnta.github.io/</id>
+  <author>
+    <name><![CDATA[QuQunta]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
